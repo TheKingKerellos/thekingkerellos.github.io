@@ -1,0 +1,8 @@
+Origin: King
+Label: King
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: King - A repo where all unsigned downgrading tweaks reside
