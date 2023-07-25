@@ -1,0 +1,43 @@
+<package>
+	<id>com.coolbooter.coolbooter</id>
+	<name>Coolbooter</name>
+	<version>1.6-release</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+     <maxiOS>10.3.3</maxiOS>
+<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>zip</package>
+   <package>xpwn</package>
+   <package>ldid</package>
+   <package>unzip</package>
+   <package>diskdev-cmds</package>
+	</dependencies>
+	<shortDescription>Tether downgrade any device to any version!</shortDescription>
+	<descriptionlist>
+		<description>CoolBooter is an all-in-one dual booting utility for jailbroken 32 bit iOS devices.</description>
+		<description>Make sure to backup any files you are not willing to loose, I and the author will not be held responsible for data loss, you have been warned</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Homescreen</description>
+			<image>images.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Not provided by author</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Official repo</name>
+			<url>https://coolbooter.com</url>
+		</link>
+	</links>
+</package>
