@@ -1,0 +1,12 @@
+Package: com.coolbooter.coolbooter
+Version: 2.0.0-1
+Section: System
+Maintainer: Jonathan Seals <coolbooterios@gmail.com>
+Depends: firmware (>=7.0), xpwn, zip, unzip, ldid, diskdev-cmds
+Architecture: iphoneos-arm
+Filename: ./debs/com.coolbooter.coolbooter-1.6-release.deb
+Size: 854
+MD5sum: a9a390a10541ccaf617a901118554ec9
+Description: An all-in-one dual booting utility for jailbroken 32 bit iOS devices.
+Author: Jonathan Seals <coolbooterios@gmail.com>
+Depiction: https://king.github.io/depictions/?p=com.coolbooter.coolbooter
