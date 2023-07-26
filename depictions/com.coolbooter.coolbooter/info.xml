@@ -6,7 +6,7 @@
 		<firmware>
 			<miniOS>7.0</miniOS>
      <maxiOS>10.3.3</maxiOS>
-<otherVersions>unconfirmed</otherVersions>
+<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -16,23 +16,27 @@
    <package>unzip</package>
    <package>diskdev-cmds</package>
 	</dependencies>
-	<shortDescription>Tether downgrade any device to any version!</shortDescription>
+	<shortDescription>Tether downgrade 32-bit devices to any version!</shortDescription>
 	<descriptionlist>
-		<description>CoolBooter is an all-in-one dual booting utility for jailbroken 32 bit iOS devices.</description>
+		<description>CoolBooter is a dual booting utility for 32 bit iOS devices.</description>
 		<description>Make sure to backup any files you are not willing to loose, I and the author will not be held responsible for data loss, you have been warned</description>
+		<description>For your safety,this coolbooter won't install on 64-bit devices</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Homescreen</description>
+			<description>Coolbooter Homepage</description>
 			<image>images.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>More soon</description>
+			<image>none.png</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Not provided by author</change>
+		<change>Fixes most bootloop issues</change>
+		<change>Fixes iCloud Backup</change>
+		<change>You can now use a separate passcode on the secondary OS</change>
+		<change>The full changelog is on tge iphone wiki</change>
 	</changelog>
 	<links>
 		<link>
