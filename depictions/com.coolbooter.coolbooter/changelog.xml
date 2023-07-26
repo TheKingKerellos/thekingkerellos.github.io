@@ -1,12 +1,18 @@
 <changelog>
 	<changes>
-		<version>1.0.0-2</version>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<version>1.6-release</version>
+		<change>9 October 2020</change>
+		<change>Fixes most bootloop issues</change>
+		<change>Fixes iCloud Backup</change>
+		<change>You can now use a separate passcode on the secondary OS</change>
+		<change>Fixes an issue where sometimes WiFi passwords on the secondary OS would always be incorrect</change>
+		<change>Fixes an issue on iOS 10 secondary OS installs where the boot process would sometimes hang if substrate is installed</change>
+		<change>Fixes an issue on iOS 8 secondary OS installs where icons would sometimes disappear</change>
+		<change>Fixes installation issues for most device and OS combinations</change>
+		<change>Various small fixes and performance improvement</change>
 	</changes>
 	<changes>
-		<version>1.0.0-1</version>
+		<version>1.0b1</version>
 		<change>Initial Release</change>
 	</changes>
 </changelog>
